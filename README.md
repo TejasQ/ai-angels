@@ -6,6 +6,7 @@ Community-maintained list of active angel investors in AI — verified, dated, P
 
 [![GitHub stars](https://img.shields.io/github/stars/conorbronsdon/ai-angels?style=social)](https://github.com/conorbronsdon/ai-angels/stargazers)
 [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg?style=flat-square)](LICENSE)
+[![Podcast](https://img.shields.io/badge/Podcast-Chain_of_Thought-purple?style=flat-square)](https://chainofthought.show/?utm_source=github&utm_medium=referral&utm_campaign=repo-readme&utm_content=ai-angels)
 [![X](https://img.shields.io/badge/X-@ConorBronsdon-black?style=flat-square&logo=x)](https://x.com/ConorBronsdon)
 
 [**Explore the interactive directory →**](https://conorbronsdon.github.io/ai-angels/)
